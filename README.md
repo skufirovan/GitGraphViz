@@ -48,11 +48,11 @@
 
 Результаты успешного прогона тестов:
 
-![Результат прогона тестов](./img/pytest.png)
+![Результат прогона тестов](https://github.com/skufirovan/GitGraphViz/blob/main/img/pytest.png?raw=true)
 
 Пример выходного файла:
 
-![Скриншот работы](./img/output.png)
+![Скриншот работы](https://github.com/skufirovan/GitGraphViz/blob/main/img/output.png?raw=true)
 
 
 
